@@ -207,6 +207,8 @@ SNYK_PROJECT_ID=<PROJECT_ID> npm start
 To find these flaws in this application (and in your own apps), run:
 ```
 npm install -g snyk
+
+test auto-trigger
 snyk wizard
 ```
 
