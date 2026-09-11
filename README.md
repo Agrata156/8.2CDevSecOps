@@ -208,7 +208,7 @@ To find these flaws in this application (and in your own apps), run:
 ```
 npm install -g snyk
 
-test auto-trigger
+test auto-trigger....
 snyk wizard
 ```
 
